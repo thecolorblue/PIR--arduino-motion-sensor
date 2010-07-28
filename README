@@ -1,0 +1,3 @@
+This is a little project to create a back door alarm for a bookstore. This is a definite work in progress, but I would greatly apreciate any input.
+
+The project revolves around an arduino connected to a PIR sensor and some sort of buzzer or bell. When someone walks by the PIR sensor the buzzer should ring once. Right now, the arduino is set to have a cool down period between buzzes, so that if someone stands near the PIR sensor it does not constantly go off. 
